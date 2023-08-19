@@ -1,0 +1,25 @@
+{
+  "name": "header-react",
+  "version": "1.0.0",
+  "description": "Creating Header using React",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
+    
+
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Abhishek Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
